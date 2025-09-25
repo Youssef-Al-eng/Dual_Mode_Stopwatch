@@ -111,20 +111,6 @@ The **DualMode Stopwatch** is an AVR microcontroller-based project designed to f
 
 ---
 
-## 🔮 Future Enhancements
-
-- Replace 7-segment displays with **OLED/LCD** for better visualization.  
-- Add **memory functionality** to save states.  
-- Support **custom alarms** and alerts.  
-
----
-
-## 📜 License
-This project is released under the **MIT License**.  
-Feel free to use, modify, and share.  
-
----
-
 ## 👤 Author
 **Youssef Alaa**  
 - GitHub: [@Youssef-Al-eng](https://github.com/Youssef-Al-eng)  
