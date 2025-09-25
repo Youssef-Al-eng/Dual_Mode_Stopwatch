@@ -127,6 +127,7 @@ Feel free to use, modify, and share.
 
 ## 👤 Author
 **Youssef Alaa**  
-- GitHub: [@YourGitHubUsername](https://github.com/YourGitHubUsername)  
-- LinkedIn: [Your LinkedIn](#)  
+- GitHub: [@Youssef-Al-eng](https://github.com/Youssef-Al-eng)  
+- LinkedIn: [Youssef Alaa](https://www.linkedin.com/in/youssef-alaa-1b9580332/)  
+
 
